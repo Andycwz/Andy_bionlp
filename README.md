@@ -1,0 +1,2 @@
+abstract.py是用于处理pubtator格式的文件，输入两个你感兴趣的关键词，则可以获得通知包含这两个关键词的摘要内容
+divide_sen.py是用于处理abstract.py处理后的摘要，用于抽取同时含有两个关键词的句子，进一步的精细化。# Andy_bionlp
